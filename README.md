@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="git_images/logo.png" alt="Logo">
+    <img src="git_imagem/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">91-seguros-App</h3>
@@ -40,13 +40,13 @@ Apk do aplicativo: https://fiuzas.com.br/91-seguros/apk_91_seguros.apk
 
 <p align="center">
   <a href="">
-    <img src="git_images/1.jpeg" alt="Logo">
+    <img src="git_imagem/1.jpeg" alt="Logo">
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="git_images/2.jpeg" alt="Logo">
+    <img src="git_imagem/2.jpeg" alt="Logo">
   </a>
 </p>
 
